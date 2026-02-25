@@ -12,3 +12,5 @@ This is a lightweight, real-time vehicle detection and counting system tailored 
 - ✅ Support for custom video input  
 - ✅ Ready-to-use Python pipeline  
 - 🔜 OCR placeholder for future license plate recognition  
+
+By: Santiago Arciniegas y Ana Camila Sánchez
